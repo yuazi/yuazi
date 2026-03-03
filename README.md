@@ -41,6 +41,8 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 ## 📫 Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yuazi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yusuf.aziz20@gmail.com)
+[![Digital Garden](https://img.shields.io/badge/Digital%20Garden-22C55E?style=flat&logo=obsidian&logoColor=white)](https://yuazi.github.io/_y_usagewiki/)
 
 ---
 
