@@ -1,4 +1,4 @@
-# Hey, I'm Yusuf 
+# Hey, I'm Yusuf
 
 Wirtschaftsinformatik master student at **Universität Stuttgart** — building things with Python, TypeScript, and a bit of ML on the side. Currently looking for a **Werkstudent position** in web development, data, or business intelligence.
 
@@ -43,22 +43,11 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 ---
 
 ```
-     *    .  *       .          *    .
-  .    *        .       *    .        *
-     .    *  .      .       *    .   *  .
-  *    .       *  .    *  .    .    *      .
- .  *     .  *    .   .        *       .   *
-        *       .        *   .    *  .     .
-  .  .      *      .  .     .  *       *
-     *   .     *       .  *       .  *
-  .     .   *     .  *    .   *      .   *
-        *      .       .    .    *      .
-     .    .  *    .  *    .   .    *   .
-  *    *      .    .      *      .    *
-    /\  /\        /\   /\    /\  /\  /\
-   /  \/  \ /\   /  \ /  \  /  \/  \/  \
-  / /\/ /\ /  \ / /\ / /\ \/ /\ / /\ /  \
- /  \  /  /  /\/ /  / /  /\  /  \  / \  /\
+                         ^                             ^                       # #
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .| #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
 ```
 
 *Stuttgart, Germany 🇩🇪*
