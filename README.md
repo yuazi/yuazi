@@ -1,10 +1,10 @@
-# Hey, I'm Yusuf 👋
+# Hey, I'm Yusuf 
 
-CS student at **Universität Stuttgart** — building things with Python, TypeScript, and a bit of ML on the side. Currently looking for a **Werkstudent position** in web development, data, or business intelligence.
+Wirtschaftsinformatik master student at **Universität Stuttgart** — building things with Python, TypeScript, and a bit of ML on the side. Currently looking for a **Werkstudent position** in web development, data, or business intelligence.
 
 ---
 
-## 🛠 Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@ CS student at **Universität Stuttgart** — building things with Python, TypeSc
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -27,7 +27,7 @@ CS student at **Universität Stuttgart** — building things with Python, TypeSc
 
 ---
 
-## 🎯 Currently
+## Currently
 
 - 🎓 Studying CS/Winfo @ Uni Stuttgart
 - 🤖 Exploring ML — neural networks, RNNs, backpropagation
@@ -38,7 +38,6 @@ CS student at **Universität Stuttgart** — building things with Python, TypeSc
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuazi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yuazi)
 
 ---
