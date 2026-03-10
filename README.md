@@ -24,17 +24,17 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 | Project | Description | Tech |
 |---|---|---|
 | [**_y_usagewiki**](https://github.com/yuazi/_y_usagewiki) | Personal knowledge wiki & digital garden | TypeScript |
-| [**sudoku_solver**](https://github.com/yuazi/sudoku_solver) | AI-powered Sudoku trainer — solves & teaches via constraint propagation | Python |
-| [**attractormediapipe**](https://github.com/yuazi/attractormediapipe) | Interactive 3D strange attractor visualizer 
+| [**sudoku_solver**](https://github.com/yuazi/sudoku_solver) | sudoku solver with constraint propagation | Python |constraint propagation | Python |
+| [**attractormediapipe**](https://github.com/yuazi/attractormediapipe) | 3D strange attractor visualizer with hand tracking | Python 
 
 ---
 
 ## Currently
 
-- 🎓 Studying CS/Winfo @ Uni Stuttgart
-- 🤖 Exploring ML — neural networks, RNNs, backpropagation
-- 🔍 Open to **Werkstudent** roles in web dev, BI, or data
-- 🛠 Building out my personal wiki at [_y_usagewiki](https://github.com/yuazi/_y_usagewiki)
+🎓 Studying CS/Winfo @ Uni Stuttgart\
+🤖 Exploring ML — neural networks, RNNs, backpropagation\
+🔍 Open to **Werkstudent** roles in web dev, BI, or data\
+🛠 Building out my personal wiki at [_y_usagewiki](https://github.com/yuazi/_y_usagewiki)
 
 ---
 
