@@ -25,7 +25,7 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 |---|---|---|
 | [**_y_usagewiki**](https://github.com/yuazi/_y_usagewiki) | Personal knowledge wiki & digital garden | TypeScript |
 | [**sudoku_solver**](https://github.com/yuazi/sudoku_solver) | AI-powered Sudoku trainer — solves & teaches via constraint propagation | Python |
-| [**simpleLorenzcss**](https://github.com/yuazi/simpleLorenzcss) | Lorenz curve CSS component for Quartz-based sites | TypeScript |
+| [**attractormediapipe**](https://github.com/yuazi/attractormediapipe) | Interactive 3D strange attractor visualizer 
 
 ---
 
