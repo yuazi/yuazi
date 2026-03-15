@@ -24,8 +24,8 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 | Project | Description | Tech |
 |---|---|---|
 | [**_y_usagewiki**](https://github.com/yuazi/_y_usagewiki) | Personal knowledge wiki & digital garden | TypeScript |
-| [**sudoku_solver**](https://github.com/yuazi/sudoku_solver) | sudoku solver with constraint propagation | Python |constraint propagation | Python |
-| [**attractormediapipe**](https://github.com/yuazi/attractormediapipe) | 3D strange attractor visualizer with hand tracking | Python 
+| [**SlideLink**](https://github.com/yuazi/SlideLink) | Align markdown lecture notes with PDF slides using TF-IDF | Python |
+| [**attractormediapipe**](https://github.com/yuazi/attractormediapipe) | 3D strange attractor visualizer with hand tracking | Python |
 
 ---
 
@@ -47,11 +47,11 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 ---
 
 ```
-                         ^                             ^                       # #
-      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^
-  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^
- /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
- .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
+  ^ ^  # #
+ ^ ^ /|\ ^ ^ /|\ ^ ## ^
+ ^ /|\ /|\ ^ /|\ ^ ^ /|\ /|\ ^ /|\/|\ ^ __|| /|\ ^ ^ ^
+/|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\/|\ /|\ /.\ __\ /|\/|\ /|\ /|\
+.| #|.. .|& /|\ | #&|. .| #|.. .|& /|\ | #|. /|\ |O | | .| #|.. .|& /|\
 ```
 
 *Stuttgart, Germany 🇩🇪*
