@@ -26,6 +26,7 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 | [**_y_usagewiki**](https://github.com/yuazi/_y_usagewiki) | Personal knowledge wiki & digital garden | TypeScript |
 | [**SlideLink**](https://github.com/yuazi/SlideLink) | Align markdown lecture notes with PDF slides using TF-IDF | Python |
 | [**attractormediapipe**](https://github.com/yuazi/attractormediapipe) | 3D strange attractor visualizer with hand tracking | Python + Mediapipe |
+| [**keyboard-AI**](https://github.com/yuazi/keyboard-AI) | Self-learning keyboard layout optimizer using n-gram stats and ergonomic cost model | Python |
 
 ---
 
