@@ -1,6 +1,6 @@
 # Hey, I'm Yusuf
 
-Wirtschaftsinformatik master student at **Universität Stuttgart** — building things with Python, TypeScript, and a bit of ML on the side. Currently looking for a **Werkstudent position** in web development, data, or business intelligence.
+Wirtschaftsinformatik master student at **Universität Stuttgart**, building things with Python, TypeScript, and a bit of ML on the side. Currently looking for a **Werkstudent position** in web development, data, or business intelligence.
 
 ---
 
@@ -33,7 +33,7 @@ Wirtschaftsinformatik master student at **Universität Stuttgart** — building 
 ## Currently
 
 🎓 Studying CS/Winfo @ Uni Stuttgart\
-🤖 Exploring ML — neural networks, RNNs, backpropagation\
+🤖 Exploring ML: Neural networks, RNNs, backpropagation\
 🔍 Open to **Werkstudent** roles in web dev, BI, or data\
 🛠 Building out my personal wiki at [_y_usagewiki](https://github.com/yuazi/_y_usagewiki)
 
