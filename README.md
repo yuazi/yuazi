@@ -16,7 +16,7 @@ Most of my projects start from something I needed myself: matching lecture notes
 
 Since July 2026 I have been a working student at BOS in Ostfildern. I mostly work on the Hublify PIM system used by ATERA: an internal product portal with search and export, TrägerScout (finds the matching roof rack systems for a vehicle by model or HSN/TSN), automated CSV, Excel and TecDoc exports, and data quality checks. Day to day that means Twig, PHP and JavaScript.
 
-Before that I spent four years as a research assistant at the University of Stuttgart, working on requirements engineering, data modelling and a software prototype for the SUCONAS project. Before that I worked in IT support at RIB IT AG.
+Before that I spent four years as a research assistant at the University of Stuttgart, working on requirements engineering, data modelling and a software prototype for the SUCONAS project, and earlier in IT support at RIB IT AG.
 
 I'm looking for a Werkstudent or junior role in web development, data, BI or applied ML around Stuttgart.
 
